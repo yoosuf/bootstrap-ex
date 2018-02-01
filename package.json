@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-ex",
+  "version": "1.0.0",
+  "description": "Extension for some of the inbuilt compunents of Bootstrap 4",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoosuf/bootstrap-ex.git"
+  },
+  "keywords": ["bootstrap4", "bootstrap", "extension"],
+  "author": "Yoosuf Muhammad",
+  "email" : "mayoosuf@gmail.com", 
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoosuf/bootstrap-ex/issues"
+  },
+  "homepage": "https://yoosuf.me/bootstrap-ex/"
+}
